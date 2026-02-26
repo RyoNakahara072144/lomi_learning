@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281514621422",
+    "project_id": "lomi-learning",
+    "storage_bucket": "lomi-learning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281514621422:android:10c5e622a81997b417b6ff",
+        "android_client_info": {
+          "package_name": "com.rally.lomi_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwdl3Rl26dx8Lr_Xp-uYIdDr2aAPGXE2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
